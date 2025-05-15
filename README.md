@@ -9,7 +9,7 @@ To create Hospital Management System software that will meet the needs of the ap
 ## DEVELOPED BY : STEPHEN RAJ Y
 ## REGISTER NO : 212223230217
 
-# DIAGRAMS:
+# DIAGRAMS: 
 
 ## ACTIVITY DIAGRAM:
 ![ActivityDiagram for Hospital Management](https://github.com/user-attachments/assets/ded3838c-f11e-4990-9443-2ed60841606e)
