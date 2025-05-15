@@ -6,8 +6,8 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 # SRS (Procedure):
 To create Hospital Management System software that will meet the needs of the applicant and help them with patient registration, booking medical services or appointments, modification in the database, and cancellation of registered appointments or services.
 
-## DEVELOPED BY : STEPHEN RAJ Y
-## REGISTER NO : 212223230217
+## DEVELOPED BY : CHARUMATHI A
+## REGISTER NO : 212224230045
 
 # DIAGRAMS:
 
